@@ -1,0 +1,15 @@
+Thứ 4 ngày 12/5/2021
+1h: Tìm chọn mạch cầu H và công tắc, vđk có thể đáp ứng yêu cầu.
+- Mạch chuyển nguồn: https://www.thegioiic.com/products/nguon-xung-vao-220vac-ra-12v-10a-120w 120k
+- Cầu H: https://www.thegioiic.com/products/vnh2sp30-mach-dieu-khien-dong-co-30a	120k
+- Công tắc: https://www.thegioiic.com/products/kcd3-1w-cong-tac-on-off-3-chan-15a	4.2k
+- Vi điều khiển: 	https://www.thegioiic.com/products/arduino-uno-r3-atmega328	185k	
+	và 		https://www.thegioiic.com/products/vo-nhua-arduino-uno-r3	16k
+- Nguồn điều khiển arduino: 	pin 9V: https://www.thegioiic.com/products/pin-9v-panasonic
+				hộp pin: https://www.thegioiic.com/products/hop-pin-1x9v-cong-tac-on-off-jack-dc-5521
+- Dây dẫn ,... 40k
+Tổng ~600k
+- Code sơ về giải thuật / lên lưu đồ giải thuật:
++ Tìm dạng đồ thị thay đổi vận tốc và gia tốc để đạt được sự rung lắc cao nhất.
++ Sử dụng PID để điều khiển vận tốc theo đồ thị đặc tuyến đó( sử dụng PID tinh chỉnh thông số PWM).
++ Bên khách hàng có nhu cầu tinh chỉnh thông số gì hay không hay chỉ cung cấp giải pháp cố định đáp ứng đúng nhu cầu là được.
